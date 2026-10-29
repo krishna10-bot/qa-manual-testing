@@ -1,8 +1,8 @@
 # Test Cases: ServeIQ Nepal
 
-**Website:** https://web.serveiqnepal.com/  
-**Date:** 28 October 2026  
-**Testing Type:** Manual Testing
+Website:https://web.serveiqnepal.com/  
+Date: 28 October 2026  
+Testing Type: Manual Testing
 
 ## Test Cases
 
@@ -22,8 +22,7 @@
 
 ## Test Summary
 
-| Metric | Count |
-|---|---:|
+  | Metric |      | Count |
 | Total Test Cases | 11 |
 | Passed | 10 |
 | Failed | 1 |
